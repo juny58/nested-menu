@@ -1,8 +1,9 @@
 <div class="menu-item" *ngFor="let menuItem of menuItems.entries; let i = index">
-    <div class="menu-item-label p-2">
+    <div class="menu-item-label p-2" (click)="check()">
         {{menuItem.name}}
         <i *ngIf="menuItem.children" class="fas fa-angle-right float-right mt-1"></i>
     </div>
 
-    <app-menu-block class="sub-menu" [style.top]="40*i + 15 + 'px'" *ngIf="menuItem.children" [menuItems]="menuItem.children"></app-menu-block>
+    <app-menu-block class="sub-menu" [style.top]="40*i + 15 + 'px'" *ngIf="menuItem.children" [usedWidth]="usedWidth"
+        [menuItems]="menuItem.children"></app-menu-block>
 </div>
