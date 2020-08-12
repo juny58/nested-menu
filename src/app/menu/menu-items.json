@@ -1,0 +1,1058 @@
+{
+    "level_name": "site",
+    "entries": [
+        {
+            "id": 1,
+            "name": "Sun Valley",
+            "children": {
+                "level_name": "zone",
+                "entries": [
+                    {
+                        "id": 1,
+                        "name": "Zone A",
+                        "children": {
+                            "level_name": "building",
+                            "entries": [
+                                {
+                                    "id": 1,
+                                    "name": "A-1",
+                                    "children": {
+                                        "level_name": "floor",
+                                        "entries": [
+                                            {
+                                                "id": 1,
+                                                "name": "L-1",
+                                                "children": {
+                                                    "level_name": "room",
+                                                    "entries": [
+                                                        {
+                                                            "id": 1,
+                                                            "name": "R-1",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 2,
+                                                            "name": "R-2",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 3,
+                                                            "name": "R-3",
+                                                            "children": null
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "id": 2,
+                                                "name": "L-2",
+                                                "children": {
+                                                    "level_name": "room",
+                                                    "entries": [
+                                                        {
+                                                            "id": 1,
+                                                            "name": "R-1",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 2,
+                                                            "name": "R-2",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 3,
+                                                            "name": "R-3",
+                                                            "children": null
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "id": 3,
+                                                "name": "L-3",
+                                                "children": {
+                                                    "level_name": "room",
+                                                    "entries": [
+                                                        {
+                                                            "id": 1,
+                                                            "name": "R-1",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 2,
+                                                            "name": "R-2",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 3,
+                                                            "name": "R-3",
+                                                            "children": null
+                                                        }
+                                                    ]
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "A-2",
+                                    "children": {
+                                        "level_name": "floor",
+                                        "entries": [
+                                            {
+                                                "id": 1,
+                                                "name": "L-1",
+                                                "children": {
+                                                    "level_name": "room",
+                                                    "entries": [
+                                                        {
+                                                            "id": 1,
+                                                            "name": "R-1",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 2,
+                                                            "name": "R-2",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 3,
+                                                            "name": "R-3",
+                                                            "children": null
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "id": 2,
+                                                "name": "L-2",
+                                                "children": {
+                                                    "level_name": "room",
+                                                    "entries": [
+                                                        {
+                                                            "id": 1,
+                                                            "name": "R-1",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 2,
+                                                            "name": "R-2",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 3,
+                                                            "name": "R-3",
+                                                            "children": null
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "id": 3,
+                                                "name": "L-3",
+                                                "children": {
+                                                    "level_name": "room",
+                                                    "entries": [
+                                                        {
+                                                            "id": 1,
+                                                            "name": "R-1",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 2,
+                                                            "name": "R-2",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 3,
+                                                            "name": "R-3",
+                                                            "children": null
+                                                        }
+                                                    ]
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "name": "Zone B",
+                        "children": {
+                            "level_name": "building",
+                            "entries": [
+                                {
+                                    "id": 1,
+                                    "name": "B-1",
+                                    "children": {
+                                        "level_name": "floor",
+                                        "entries": [
+                                            {
+                                                "id": 1,
+                                                "name": "L-1",
+                                                "children": {
+                                                    "level_name": "room",
+                                                    "entries": [
+                                                        {
+                                                            "id": 1,
+                                                            "name": "R-1",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 2,
+                                                            "name": "R-2",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 3,
+                                                            "name": "R-3",
+                                                            "children": null
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "id": 2,
+                                                "name": "L-2",
+                                                "children": {
+                                                    "level_name": "room",
+                                                    "entries": [
+                                                        {
+                                                            "id": 1,
+                                                            "name": "R-1",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 2,
+                                                            "name": "R-2",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 3,
+                                                            "name": "R-3",
+                                                            "children": null
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "id": 3,
+                                                "name": "L-3",
+                                                "children": {
+                                                    "level_name": "room",
+                                                    "entries": [
+                                                        {
+                                                            "id": 1,
+                                                            "name": "R-1",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 2,
+                                                            "name": "R-2",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 3,
+                                                            "name": "R-3",
+                                                            "children": null
+                                                        }
+                                                    ]
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "B-2",
+                                    "children": {
+                                        "level_name": "floor",
+                                        "entries": [
+                                            {
+                                                "id": 1,
+                                                "name": "L-1",
+                                                "children": {
+                                                    "level_name": "room",
+                                                    "entries": [
+                                                        {
+                                                            "id": 1,
+                                                            "name": "R-1",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 2,
+                                                            "name": "R-2",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 3,
+                                                            "name": "R-3",
+                                                            "children": null
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "id": 2,
+                                                "name": "L-2",
+                                                "children": {
+                                                    "level_name": "room",
+                                                    "entries": [
+                                                        {
+                                                            "id": 1,
+                                                            "name": "R-1",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 2,
+                                                            "name": "R-2",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 3,
+                                                            "name": "R-3",
+                                                            "children": null
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "id": 3,
+                                                "name": "L-3",
+                                                "children": {
+                                                    "level_name": "room",
+                                                    "entries": [
+                                                        {
+                                                            "id": 1,
+                                                            "name": "R-1",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 2,
+                                                            "name": "R-2",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 3,
+                                                            "name": "R-3",
+                                                            "children": null
+                                                        }
+                                                    ]
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "name": "Moon Valley",
+            "children": {
+                "level_name": "zone",
+                "entries": [
+                    {
+                        "id": 1,
+                        "name": "Zone A",
+                        "children": {
+                            "level_name": "building",
+                            "entries": [
+                                {
+                                    "id": 1,
+                                    "name": "A-1",
+                                    "children": {
+                                        "level_name": "floor",
+                                        "entries": [
+                                            {
+                                                "id": 1,
+                                                "name": "L-1",
+                                                "children": {
+                                                    "level_name": "room",
+                                                    "entries": [
+                                                        {
+                                                            "id": 1,
+                                                            "name": "R-1",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 2,
+                                                            "name": "R-2",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 3,
+                                                            "name": "R-3",
+                                                            "children": null
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "id": 2,
+                                                "name": "L-2",
+                                                "children": {
+                                                    "level_name": "room",
+                                                    "entries": [
+                                                        {
+                                                            "id": 1,
+                                                            "name": "R-1",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 2,
+                                                            "name": "R-2",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 3,
+                                                            "name": "R-3",
+                                                            "children": null
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "id": 3,
+                                                "name": "L-3",
+                                                "children": {
+                                                    "level_name": "room",
+                                                    "entries": [
+                                                        {
+                                                            "id": 1,
+                                                            "name": "R-1",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 2,
+                                                            "name": "R-2",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 3,
+                                                            "name": "R-3",
+                                                            "children": null
+                                                        }
+                                                    ]
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "A-2",
+                                    "children": {
+                                        "level_name": "floor",
+                                        "entries": [
+                                            {
+                                                "id": 1,
+                                                "name": "L-1",
+                                                "children": {
+                                                    "level_name": "room",
+                                                    "entries": [
+                                                        {
+                                                            "id": 1,
+                                                            "name": "R-1",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 2,
+                                                            "name": "R-2",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 3,
+                                                            "name": "R-3",
+                                                            "children": null
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "id": 2,
+                                                "name": "L-2",
+                                                "children": {
+                                                    "level_name": "room",
+                                                    "entries": [
+                                                        {
+                                                            "id": 1,
+                                                            "name": "R-1",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 2,
+                                                            "name": "R-2",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 3,
+                                                            "name": "R-3",
+                                                            "children": null
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "id": 3,
+                                                "name": "L-3",
+                                                "children": {
+                                                    "level_name": "room",
+                                                    "entries": [
+                                                        {
+                                                            "id": 1,
+                                                            "name": "R-1",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 2,
+                                                            "name": "R-2",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 3,
+                                                            "name": "R-3",
+                                                            "children": null
+                                                        }
+                                                    ]
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "name": "Zone B",
+                        "children": {
+                            "level_name": "building",
+                            "entries": [
+                                {
+                                    "id": 1,
+                                    "name": "B-1",
+                                    "children": {
+                                        "level_name": "floor",
+                                        "entries": [
+                                            {
+                                                "id": 1,
+                                                "name": "L-1",
+                                                "children": {
+                                                    "level_name": "room",
+                                                    "entries": [
+                                                        {
+                                                            "id": 1,
+                                                            "name": "R-1",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 2,
+                                                            "name": "R-2",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 3,
+                                                            "name": "R-3",
+                                                            "children": null
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "id": 2,
+                                                "name": "L-2",
+                                                "children": {
+                                                    "level_name": "room",
+                                                    "entries": [
+                                                        {
+                                                            "id": 1,
+                                                            "name": "R-1",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 2,
+                                                            "name": "R-2",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 3,
+                                                            "name": "R-3",
+                                                            "children": null
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "id": 3,
+                                                "name": "L-3",
+                                                "children": {
+                                                    "level_name": "room",
+                                                    "entries": [
+                                                        {
+                                                            "id": 1,
+                                                            "name": "R-1",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 2,
+                                                            "name": "R-2",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 3,
+                                                            "name": "R-3",
+                                                            "children": null
+                                                        }
+                                                    ]
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "B-2",
+                                    "children": {
+                                        "level_name": "floor",
+                                        "entries": [
+                                            {
+                                                "id": 1,
+                                                "name": "L-1",
+                                                "children": {
+                                                    "level_name": "room",
+                                                    "entries": [
+                                                        {
+                                                            "id": 1,
+                                                            "name": "R-1",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 2,
+                                                            "name": "R-2",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 3,
+                                                            "name": "R-3",
+                                                            "children": null
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "id": 2,
+                                                "name": "L-2",
+                                                "children": {
+                                                    "level_name": "room",
+                                                    "entries": [
+                                                        {
+                                                            "id": 1,
+                                                            "name": "R-1",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 2,
+                                                            "name": "R-2",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 3,
+                                                            "name": "R-3",
+                                                            "children": null
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "id": 3,
+                                                "name": "L-3",
+                                                "children": {
+                                                    "level_name": "room",
+                                                    "entries": [
+                                                        {
+                                                            "id": 1,
+                                                            "name": "R-1",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 2,
+                                                            "name": "R-2",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 3,
+                                                            "name": "R-3",
+                                                            "children": null
+                                                        }
+                                                    ]
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "name": "Star Valley",
+            "children": {
+                "level_name": "zone",
+                "entries": [
+                    {
+                        "id": 1,
+                        "name": "Zone A",
+                        "children": {
+                            "level_name": "building",
+                            "entries": [
+                                {
+                                    "id": 1,
+                                    "name": "A-1",
+                                    "children": {
+                                        "level_name": "floor",
+                                        "entries": [
+                                            {
+                                                "id": 1,
+                                                "name": "L-1",
+                                                "children": {
+                                                    "level_name": "room",
+                                                    "entries": [
+                                                        {
+                                                            "id": 1,
+                                                            "name": "R-1",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 2,
+                                                            "name": "R-2",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 3,
+                                                            "name": "R-3",
+                                                            "children": null
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "id": 2,
+                                                "name": "L-2",
+                                                "children": {
+                                                    "level_name": "room",
+                                                    "entries": [
+                                                        {
+                                                            "id": 1,
+                                                            "name": "R-1",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 2,
+                                                            "name": "R-2",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 3,
+                                                            "name": "R-3",
+                                                            "children": null
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "id": 3,
+                                                "name": "L-3",
+                                                "children": {
+                                                    "level_name": "room",
+                                                    "entries": [
+                                                        {
+                                                            "id": 1,
+                                                            "name": "R-1",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 2,
+                                                            "name": "R-2",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 3,
+                                                            "name": "R-3",
+                                                            "children": null
+                                                        }
+                                                    ]
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "A-2",
+                                    "children": {
+                                        "level_name": "floor",
+                                        "entries": [
+                                            {
+                                                "id": 1,
+                                                "name": "L-1",
+                                                "children": {
+                                                    "level_name": "room",
+                                                    "entries": [
+                                                        {
+                                                            "id": 1,
+                                                            "name": "R-1",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 2,
+                                                            "name": "R-2",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 3,
+                                                            "name": "R-3",
+                                                            "children": null
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "id": 2,
+                                                "name": "L-2",
+                                                "children": {
+                                                    "level_name": "room",
+                                                    "entries": [
+                                                        {
+                                                            "id": 1,
+                                                            "name": "R-1",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 2,
+                                                            "name": "R-2",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 3,
+                                                            "name": "R-3",
+                                                            "children": null
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "id": 3,
+                                                "name": "L-3",
+                                                "children": {
+                                                    "level_name": "room",
+                                                    "entries": [
+                                                        {
+                                                            "id": 1,
+                                                            "name": "R-1",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 2,
+                                                            "name": "R-2",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 3,
+                                                            "name": "R-3",
+                                                            "children": null
+                                                        }
+                                                    ]
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "name": "Zone B",
+                        "children": {
+                            "level_name": "building",
+                            "entries": [
+                                {
+                                    "id": 1,
+                                    "name": "B-1",
+                                    "children": {
+                                        "level_name": "floor",
+                                        "entries": [
+                                            {
+                                                "id": 1,
+                                                "name": "L-1",
+                                                "children": {
+                                                    "level_name": "room",
+                                                    "entries": [
+                                                        {
+                                                            "id": 1,
+                                                            "name": "R-1",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 2,
+                                                            "name": "R-2",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 3,
+                                                            "name": "R-3",
+                                                            "children": null
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "id": 2,
+                                                "name": "L-2",
+                                                "children": {
+                                                    "level_name": "room",
+                                                    "entries": [
+                                                        {
+                                                            "id": 1,
+                                                            "name": "R-1",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 2,
+                                                            "name": "R-2",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 3,
+                                                            "name": "R-3",
+                                                            "children": null
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "id": 3,
+                                                "name": "L-3",
+                                                "children": {
+                                                    "level_name": "room",
+                                                    "entries": [
+                                                        {
+                                                            "id": 1,
+                                                            "name": "R-1",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 2,
+                                                            "name": "R-2",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 3,
+                                                            "name": "R-3",
+                                                            "children": null
+                                                        }
+                                                    ]
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "B-2",
+                                    "children": {
+                                        "level_name": "floor",
+                                        "entries": [
+                                            {
+                                                "id": 1,
+                                                "name": "L-1",
+                                                "children": {
+                                                    "level_name": "room",
+                                                    "entries": [
+                                                        {
+                                                            "id": 1,
+                                                            "name": "R-1",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 2,
+                                                            "name": "R-2",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 3,
+                                                            "name": "R-3",
+                                                            "children": null
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "id": 2,
+                                                "name": "L-2",
+                                                "children": {
+                                                    "level_name": "room",
+                                                    "entries": [
+                                                        {
+                                                            "id": 1,
+                                                            "name": "R-1",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 2,
+                                                            "name": "R-2",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 3,
+                                                            "name": "R-3",
+                                                            "children": null
+                                                        }
+                                                    ]
+                                                }
+                                            },
+                                            {
+                                                "id": 3,
+                                                "name": "L-3",
+                                                "children": {
+                                                    "level_name": "room",
+                                                    "entries": [
+                                                        {
+                                                            "id": 1,
+                                                            "name": "R-1",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 2,
+                                                            "name": "R-2",
+                                                            "children": null
+                                                        },
+                                                        {
+                                                            "id": 3,
+                                                            "name": "R-3",
+                                                            "children": null
+                                                        }
+                                                    ]
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}
