@@ -33,5 +33,7 @@ But we are using some logic in nested `menu-block`'s ts to make it responsive fo
 
 At this moment, the API is not populated with data. So we created a `menu.json` and put the data according to the interface that suits.
 
+I am using the service to call the api but at this moment, as said already, data is coming from local json file due to unavailability of data.
+
 ## Important constants
 The `menu-block`'s width is taken as 150px

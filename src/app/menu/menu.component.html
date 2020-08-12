@@ -1,6 +1,6 @@
 <div class="container p-3">
     <button class="btn btn-primary" (click)="toggleMenu()">Sites <i class="fas fa-angle-down ml-2"></i></button>
-    <div class="position-relative" [hidden]="!showMenu">
+    <div *ngIf="menuItems" class="position-relative" [hidden]="!showMenu">
         <app-menu-block [usedWidth]="150" [menuItems]="menuItems"></app-menu-block>
     </div>
 </div>

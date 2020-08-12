@@ -1,17 +1,24 @@
 import { Component, OnInit } from '@angular/core';
 import { MenuItemInterface } from './menu.interface';
-declare var require
-var menuItems = require("./menu-items.json")
+import { MenuService } from './menu.service';
 
 @Component({
   selector: 'app-menu',
   templateUrl: './menu.component.html',
   styleUrls: ['./menu.component.scss']
 })
-export class MenuComponent {
+export class MenuComponent implements OnInit {
 
-  menuItems: MenuItemInterface = menuItems
+  menuItems: MenuItemInterface
   showMenu: boolean = false;
+
+  constructor(private menuService: MenuService) { }
+
+  ngOnInit() {
+    this.menuService.getMenudata().subscribe((data: MenuItemInterface) => {
+      this.menuItems = data
+    })
+  }
 
   toggleMenu() {
     this.showMenu = !this.showMenu
