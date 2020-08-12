@@ -37,3 +37,8 @@ I am using the service to call the api but at this moment, as said already, data
 
 ## Important constants
 The `menu-block`'s width is taken as 150px
+
+## Dependencies
+icons: font-awesome cdn
+
+css: bootstrap cdn
