@@ -1,0 +1,14 @@
+:host {
+    width: 150px;
+}
+.menu-item-label {
+    cursor: pointer;
+}
+.menu-item-label:hover {
+    background: #008cff;
+    color: #fff;
+}
+.sub-menu {
+    left: 150px;
+    top: 0
+}

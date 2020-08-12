@@ -1,0 +1,8 @@
+<div class="menu-item" *ngFor="let menuItem of menuItems.entries">
+    <div class="menu-item-label p-2">
+        {{menuItem.name}}
+        <i *ngIf="menuItem.children" class="fas fa-angle-right float-right mt-1"></i>
+    </div>
+
+    <app-menu-block class="sub-menu" *ngIf="menuItem.children" [menuItems]="menuItem.children"></app-menu-block>
+</div>
