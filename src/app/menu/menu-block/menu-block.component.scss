@@ -3,6 +3,8 @@
 }
 .menu-item-label {
     cursor: pointer;
+    text-overflow: ellipsis;
+    white-space: nowrap;
 }
 .menu-item-label:hover {
     background: #008cff;
@@ -10,5 +12,8 @@
 }
 .sub-menu {
     left: 150px;
-    top: 0
+    visibility: hidden;
+}
+.menu-item:hover > .sub-menu {
+    visibility: visible;
 }

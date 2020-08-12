@@ -11,4 +11,10 @@ var menuItems = require("./menu-items.json")
 export class MenuComponent {
 
   menuItems: MenuItemInterface = menuItems
+  showMenu: boolean = false;
+
+  toggleMenu() {
+    this.showMenu = !this.showMenu
+  }
+
 }
